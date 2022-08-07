@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![DSC02659](https://user-images.githubusercontent.com/51368129/183300803-abafb053-9254-40c0-a91c-6181a1e8b17f.JPG)
+
 
 I'm Charunthon Limseelo. Actually, you can call me Chris and nice to meet you all. This Git is collecting all the information that need in CPE KMUTT(New Lesson Plan)Resorces and LearnBloc Lectures...
 
