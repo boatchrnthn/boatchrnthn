@@ -7,9 +7,9 @@ I'm Charunthon Limseelo. Actually, you can call me Chris and nice to meet you al
 
 Here are some information from me to know about:
 
-- 🔭 I’m currently working on ACSP Senior Programming Student
-- 🌱 I’m currently learning Computer Engineeering (International Program) @ KMUTT, Thailand
-- 👯 I’m looking to collaborate on MAANG business (Especially Microsoft and Google)
+- 🤖 I’m currently working on ACSP Senior Programming Student
+- 👨🏻‍💻 I’m currently learning Computer Engineeering (International Program) @ KMUTT, Thailand
+- 👫🏻 I’m looking to collaborate on MAANG business (Especially Microsoft and Google)
 - 🤔 I’m looking for help with some coding ideas and big software/AI project for the future
 - 📫 How to reach me: Instagram @chrischrnthn
 - ⚡ Fun fact: Nowadays, I'm in love with Natthaya Wongsumrit, Medical Student at Vajira.
