@@ -13,3 +13,9 @@ Here are some information from me to know about:
 - 🤔 I’m looking for help with some coding ideas and big software/AI project for the future
 - 📫 How to reach me: Instagram @chrischrnthn
 - ⚡ Fun fact: Nowadays, I'm in love with Natthaya Wongsumrit, Medical Student at Vajira.
+
+Programming Achievements :
+
+![Azure Certification](https://user-images.githubusercontent.com/51368129/183300897-a591cdc7-7bc5-4dc2-ba47-c34cde24eab6.png)
+
+![Python Certification](https://user-images.githubusercontent.com/51368129/183300902-e75b6cd2-b397-4813-af02-770d5874efca.png)
